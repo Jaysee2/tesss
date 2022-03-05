@@ -6,7 +6,7 @@ jobs:
   build:
 
     runs-on: windows-latest
-    starts-timer: 00
+    timer: 00s
     timeout-minutes: 9999
 
     steps:
